@@ -1,0 +1,21 @@
+# Environments
+venv/
+.env 
+
+#Python cache
+__pycache__/
+*.pyc 
+*.pyo 
+*.pyd 
+.Python 
+
+#Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data mentah
+data/raw/*.pdf
+data.raw/*.csv
+
+# OS / Editor files
+.DS_Store
+.vscode/
